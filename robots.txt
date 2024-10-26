@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ipocaoji.github.io/sitemap_index.ipocaoji
